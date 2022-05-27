@@ -1,1 +1,2 @@
 char test file for git
+test 1
